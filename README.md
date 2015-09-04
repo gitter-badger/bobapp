@@ -1,5 +1,7 @@
 ## Contributing (Step-by-step) :memo:
 
+[![Join the chat at https://gitter.im/bobdrop/bobapp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bobdrop/bobapp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 1. Clone the Repo:
 
         git clone https://github.com/bobdrop/bobapp.git
